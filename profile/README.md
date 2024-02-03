@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://github.com/TMUCSA/tmucsa-website/blob/dev/public/icons/logo3.png" height="60%" width="60%" alt="logo"/>
-</h1>
-
 <h2 align="center">Welcome to TMUCSA!</h2>
 <p align="center"><strong>... the Chinese Student Association located in the vibrant streets of Toronto!</strong></h4>
 
