@@ -1,4 +1,4 @@
-<h2 align="center">Welcome to TMUCSA!</h2>
+<h2 align="center">Welcome to TMUCSA's GitHub!</h2>
 <p align="center"><strong>... the Chinese Student Association located in the vibrant streets of Toronto!</strong></h4>
 
 ## About Us
