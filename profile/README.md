@@ -11,5 +11,8 @@
 Joining TMUCSA is easy! Whether you're a new student looking to make friends or a seasoned member of the community, there are plenty of ways to get involved:
 
 ## Contact Us
-Have questions, suggestions, or just want to say hello? We'd love to hear from you! Feel free to reach out to us:
-
+Have questions, suggestions, or just want to say hello? We'd love to hear from you! Feel free to reach out to us our:
+- [Instagram!](https://www.instagram.com/tmucsa/)
+- [Discord!](https://discord.com/invite/P64yherRQf)
+- [TikTok!](https://www.tiktok.com/@tmucsa)
+- [LinkedIn!](https://www.linkedin.com/company/ryerson-university-chinese-student-association/)
