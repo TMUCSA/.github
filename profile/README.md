@@ -8,7 +8,7 @@
 #### Is to build a fun, inclusive student community at TMU. We organize organize diverse events and activities that cater to student interests, promote diversity, and foster connections. We aim to empower students to actively shape campus life and support one another. By prioritizing student well-being, we create a vibrant and supportive environment that enhances the overall student experience at TMU.
 
 ## Get Involved
-Joining TMUCSA is easy! Whether you're a new student looking to make friends or a seasoned member of the community, there are plenty of ways to get involved:
+Joining TMUCSA is easy! Whether you're a new student looking to make friends or a seasoned member of the community, there are plenty of ways to get involved.
 
 ## Contact Us
 Have questions, suggestions, or just want to say hello? We'd love to hear from you! Feel free to reach out to us our:
